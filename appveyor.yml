@@ -1,5 +1,3 @@
-image: Visual Studio Code
-
 build_script:
     - cmd: cmake -H. -B_build
     - cmd: cmake --build _build
