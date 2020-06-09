@@ -1,0 +1,7 @@
+C:/Users/Daniil-PC/Daniil_Rip/Daniil_Rip/DaniilRyb/workspace/Homework04/_build/CMakeFiles/formatter.dir
+C:/Users/Daniil-PC/Daniil_Rip/Daniil_Rip/DaniilRyb/workspace/Homework04/_build/CMakeFiles/formatter_ex.dir
+C:/Users/Daniil-PC/Daniil_Rip/Daniil_Rip/DaniilRyb/workspace/Homework04/_build/CMakeFiles/hello_world.dir
+C:/Users/Daniil-PC/Daniil_Rip/Daniil_Rip/DaniilRyb/workspace/Homework04/_build/CMakeFiles/solver_lib.dir
+C:/Users/Daniil-PC/Daniil_Rip/Daniil_Rip/DaniilRyb/workspace/Homework04/_build/CMakeFiles/solver.dir
+C:/Users/Daniil-PC/Daniil_Rip/Daniil_Rip/DaniilRyb/workspace/Homework04/_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Daniil-PC/Daniil_Rip/Daniil_Rip/DaniilRyb/workspace/Homework04/_build/CMakeFiles/ZERO_CHECK.dir
